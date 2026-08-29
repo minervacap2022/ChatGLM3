@@ -242,3 +242,8 @@ model = load_model_on_gpus("THUDM/chatglm3-6b", num_gpus=2)
   year={2022}
 }
 ```
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
